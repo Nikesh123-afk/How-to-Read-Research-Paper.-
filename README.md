@@ -1,8 +1,7 @@
-How to Quickly Read a Research Paper for Students.
+  How to Quickly Read a Research Paper for Students.
 
-Significant number of freshers are facing problem while reading research paper or working on research as a student
-i'm also facing difficulty on doing research. so, here is a quick guidence i like to share that makes the research 
-easier.
+  A significant number of freshers are facing problems while reading research papers or working on research, as I'm also facing difficulty in doing research. So, here is       some quick guidance I'd like to share that makes the research 
+  easier.
 
 1.	Look at the Title
 o	The title tells you what the paper is about and usually hints at the main result.
@@ -12,7 +11,7 @@ o	The abstract is a summary of the whole paper (usually less than a page).
 o	It tells you what the researchers studied, how they did the study (their method), what they found, and why those results are important.
 
 5.	Check the Introduction
-o	First Paragraph: Read this to understand the background and why this topic is important.
+o	the First Paragraph: Read this to understand the background and why this topic is important.
 o	Last Paragraph: Read this to see what problem the paper is trying to solve or what question it answers.
 
 7.	Skim the Results Section
