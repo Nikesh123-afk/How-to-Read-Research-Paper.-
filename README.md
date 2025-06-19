@@ -1,45 +1,28 @@
 📘 How to Quickly Read a Research Paper for Students
 
-🎓 A significant number of freshers face problems while reading research papers or working on research projects. I'm also experiencing these difficulties. So, here’s a quick and practical guide to help make the research process easier.
-
-—
-
-🧭 Step-by-Step Guide
+A significant number of freshers are facing problems while reading research papers or working on research, as I'm also facing difficulty in doing research. So, here is some quick guidance I'd like to share that makes the research easier.
 
 ➤ 1. Look at the Title  
-📌 The title gives you the main idea of the paper and often hints at its core result or contribution.
+• The title tells you what the paper is about and usually hints at the main result.
 
 ➤ 2. Read the Abstract  
-📝 The abstract is a short summary (usually less than a page) that tells you:  
-• What the researchers studied  
-• How they conducted the study (methods)  
-• What they found (results)  
-• Why those results matter
+• The abstract is a summary of the whole paper (usually less than a page).  
+• It tells you what the researchers studied, how they did the study (their method), what they found, and why those results are important.
 
 ➤ 3. Check the Introduction  
-📖  
-• First Paragraph: Understand the background and why this topic is important  
-• Last Paragraph: Find out the main research problem or question the paper is addressing
+• First Paragraph: Read this to understand the background and why this topic is important.  
+• Last Paragraph: Read this to see what problem the paper is trying to solve or what question it answers.
 
 ➤ 4. Skim the Results Section  
-📊 Focus on bolded or highlighted headings to get the main findings  
-You don’t need to read every table or figure unless it’s directly useful
+• Just read the bold or highlighted headings in the results section.  
+• These headings tell you the main findings, without needing to read all the details.
 
-➤ 5. Read the Final Paragraph of the Discussion or Conclusion  
-💡 This part gives you:  
-• The main takeaway  
-• Why it’s important  
-• What could be done in future research
+➤ 5. Read the Last Paragraph of the Discussion or Conclusion  
+• This part explains the main takeaway, why it’s important, and what could be done next.
 
 —
 
-⚡ Quick Tips for Students
-
-✔ Use this method when:
-• You need to review multiple papers quickly  
-• You want to decide if a paper is worth reading fully  
-• You’re preparing for assignments, projects, or presentations
-
-📎 Always cite the paper if you use its information, including ideas, data, or results.
-
-—
+💡 Quick Tips:  
+• This method helps you decide if you want to read the whole paper later.  
+• Use it when you have to look at lots of papers for assignments or projects.  
+• Always mention (cite) the paper if you use its information.
