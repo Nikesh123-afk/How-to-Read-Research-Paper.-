@@ -34,3 +34,6 @@ A significant number of freshers are facing problems while reading research pape
 • This method helps you decide if you want to read the whole paper later.  
 • Use it when you have to look at lots of papers for assignments or projects.  
 • Always mention (cite) the paper if you use its information.
+
+In addition, to this i would like to mention how to write an paragraph effectively
+1.
